@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/30 14:52:38.000.552,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/30 15:41:03.000.782,E:\Projetos\Curso Delphi Mobile\uPrincipal.fmx=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/10/30 15:41:03.000.782,E:\Projetos\Curso Delphi Mobile\uPrincipal.pas=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/30 15:41:09.000.863,E:\Projetos\Curso Delphi Mobile\prjMobile.dproj=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/10 10:41:42.000.299,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/10 10:42:03.000.592,=E:\Projetos\Curso Delphi Mobile\Unit2.pas</Transaction>
+    <Transaction>2021/11/10 10:45:12.000.046,E:\Projetos\Curso Delphi Mobile\uLogin.pas=E:\Projetos\Curso Delphi Mobile\Unit2.pas</Transaction>
+    <Transaction>2021/11/10 10:45:12.000.046,E:\Projetos\Curso Delphi Mobile\uLogin.fmx=E:\Projetos\Curso Delphi Mobile\Unit2.fmx</Transaction>
+    <Transaction>2021/11/11 13:51:34.000.859,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/11 13:51:48.000.806,=E:\Projetos\Curso Delphi Mobile\Units\uPermissions.pas</Transaction>
+    <Transaction>2021/11/11 14:34:17.000.129,E:\Projetos\Curso Delphi Mobile\Units\uPermissions.pas=E:\Projetos\Curso Delphi Mobile\Units\u99Permissions.pas</Transaction>
+    <Transaction>2021/11/15 11:13:20.000.660,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 11:13:56.000.775,E:\Projetos\Curso Delphi Mobile\Unit1.pas=E:\Projetos\Curso Delphi Mobile\uLancamentos.pas</Transaction>
+    <Transaction>2021/11/15 11:13:56.000.775,E:\Projetos\Curso Delphi Mobile\Unit1.fmx=E:\Projetos\Curso Delphi Mobile\uLancamentos.fmx</Transaction>
+    <Transaction>2021/11/15 11:53:08.000.740,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 11:57:32.000.911,E:\Projetos\Curso Delphi Mobile\Unit1.pas=E:\Projetos\Curso Delphi Mobile\uFuncoes.pas</Transaction>
+    <Transaction>2021/11/15 14:26:04.000.538,E:\Projetos\Curso Delphi Mobile\uFuncoes.pas=E:\Projetos\Curso Delphi Mobile\Units\uFuncoes.pas</Transaction>
+    <Transaction>2021/11/16 18:32:14.000.351,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 18:32:45.000.874,E:\Projetos\Curso Delphi Mobile\uCadDespesas.pas=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 18:32:45.000.874,E:\Projetos\Curso Delphi Mobile\uCadDespesas.fmx=E:\Projetos\Curso Delphi Mobile\Unit1.fmx</Transaction>
+    <Transaction>2021/11/20 11:57:25.000.481,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/20 11:58:09.000.751,E:\Projetos\Curso Delphi Mobile\Unit1.pas=E:\Projetos\Curso Delphi Mobile\uCategorias.pas</Transaction>
+    <Transaction>2021/11/20 11:58:09.000.751,E:\Projetos\Curso Delphi Mobile\Unit1.fmx=E:\Projetos\Curso Delphi Mobile\uCategorias.fmx</Transaction>
+    <Transaction>2021/11/20 13:03:24.000.015,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/20 13:04:03.000.172,E:\Projetos\Curso Delphi Mobile\uCadCategorias.pas=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/20 13:04:03.000.172,E:\Projetos\Curso Delphi Mobile\uCadCategorias.fmx=E:\Projetos\Curso Delphi Mobile\Unit1.fmx</Transaction>
+    <Transaction>2021/11/20 17:38:58.000.023,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/20 17:39:18.000.507,E:\Projetos\Curso Delphi Mobile\uDM.dfm=E:\Projetos\Curso Delphi Mobile\Unit1.dfm</Transaction>
+    <Transaction>2021/11/20 17:39:18.000.507,E:\Projetos\Curso Delphi Mobile\uDM.pas=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/24 19:44:13.000.634,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/24 19:55:02.000.660,E:\Projetos\Curso Delphi Mobile\Classes\cCategoria.pas=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/11/24 20:27:03.000.658,=E:\Projetos\Curso Delphi Mobile\Classes\cLancamento.pas</Transaction>
+    <Transaction>2021/11/24 20:27:03.000.712,=E:\Projetos\Curso Delphi Mobile\Classes\cUsuario.pas</Transaction>
+    <Transaction>2021/12/04 16:07:48.000.476,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/12/04 16:08:27.000.663,E:\Projetos\Curso Delphi Mobile\uComboCategoria.pas=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/12/04 16:08:27.000.663,E:\Projetos\Curso Delphi Mobile\uComboCategoria.fmx=E:\Projetos\Curso Delphi Mobile\Unit1.fmx</Transaction>
+    <Transaction>2021/12/14 21:23:39.000.188,=E:\Projetos\Curso Delphi Mobile\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:24:00.000.496,E:\Projetos\Curso Delphi Mobile\Unit1.fmx=E:\Projetos\Curso Delphi Mobile\uLancamentosResumo.fmx</Transaction>
+    <Transaction>2021/12/14 21:24:00.000.496,E:\Projetos\Curso Delphi Mobile\Unit1.pas=E:\Projetos\Curso Delphi Mobile\uLancamentosResumo.pas</Transaction>
+    <Transaction>2022/03/21 19:39:50.812,E:\Projetos\Curso Delphi Mobile\Finanças.dproj=E:\Projetos\Curso Delphi Mobile\prjMobile.dproj</Transaction>
+    <Transaction>2022/03/21 19:56:05.243,E:\Projetos\Curso Delphi Mobile\prjMobile.dproj=E:\Projetos\Curso Delphi Mobile\Finanças.dproj</Transaction>
+    <Transaction>2022/03/21 19:59:16.081,E:\Projetos\Curso Delphi Mobile\Finanças.dproj=E:\Projetos\Curso Delphi Mobile\prjMobile.dproj</Transaction>
+    <Transaction>2022/03/21 20:01:33.529,E:\Projetos\Curso Delphi Mobile\prjMobile.dproj=E:\Projetos\Curso Delphi Mobile\Finanças.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="5203cf70e24b441f" Android64=""/>
+	</ActiveMobileDevice>  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
